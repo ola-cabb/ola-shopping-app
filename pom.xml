@@ -5,7 +5,7 @@
   <artifactId>shopping-cart-app</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>shopping-cart-app</name>
+   <name>shopping-cart-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
